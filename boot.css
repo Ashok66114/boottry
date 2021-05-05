@@ -1,0 +1,38 @@
+.navbar{
+    
+    text-align: center;
+    background-color: seagreen;
+    margin: 0px 10px;
+}
+.navbar a{
+    display: inline-block;
+}
+.navbar-nav{
+text-align: center;
+align-items: center;
+}
+body{
+    background-color: #fff7d9;
+}
+
+.navbar-nav a:hover{
+    background-color: rgb(231, 231, 231);
+    color: black;
+    }
+
+    #mycarousel{
+        margin: 10px;
+    }
+    .carousel-item img{
+        height: 400px;
+
+    }
+    
+
+    .content{
+        text-align: justify;
+    }
+
+    .end a{
+        text-decoration: none;
+    }
